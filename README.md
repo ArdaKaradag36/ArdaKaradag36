@@ -16,7 +16,7 @@
 - Artificial Intelligence
 - Banking Databases
 
-📊 GPA: 3.48
+📊 GPA: 3,28
 🌐 English: Able to read and understand technical documentation
 
 ---
