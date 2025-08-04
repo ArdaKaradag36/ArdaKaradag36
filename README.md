@@ -1,77 +1,70 @@
-## 👋 Hello, I'm Arda Karadağ
+# 👋 Hello, I'm Arda Karadağ
 
-🎓 I'm a 1st-year Computer Programming student at OSTİM Technical University.
+🎓 I'm currently studying **Computer Programming** at OSTİM Technical University.
 
-💻 Technologies I have basic knowledge of:
-- C
+💡 I'm interested in **data systems**, **artificial intelligence**, and **human-computer interaction**. I also enjoy working on web technologies including **frontend** and **backend** development.
+
+💻 Technologies I'm familiar with:
 - Python
-- HTML, CSS, Bootstrap
+- C
+- HTML & CSS
 - JavaScript
-
-🛠️ Currently learning:
-- Java
 - PostgreSQL
 
-📌 Fields of interest:
-- Artificial Intelligence
-- Banking Databases
+📚 I’m constantly learning and improving my skills in:
+- Databases
+- AI applications
+- Full-stack development
 
-📊 GPA: 3,28
-🌐 English: Able to read and understand technical documentation
+📈 GPA: **3.28**  
+🌐 English: Able to understand technical documents and resources
+
+🧠 I'm a team-oriented person who enjoys solving problems, taking responsibility, and learning new things.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)
+![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
 - GitHub: [ArdaKaradag36](https://github.com/ArdaKaradag36)
-- LinkedIn: (add your link here if available)
+- LinkedIn: [linkedin.com/in/ardakaradag]([https://linkedin.com/in/ardakaradag](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGTq2qgKiRPqIR6ZitHy5cQ%3D%3D))
 
 ---
 
-✨ Stay tuned for more projects and content
+✨ Stay tuned for upcoming projects and learning journeys!
 
 ---
 
 ## 👋 Merhaba, ben Arda Karadağ
 
-🎓 OSTİM Teknik Üniversitesi Bilgisayar Programcılığı 1. sınıf öğrencisiyim.
+🎓 OSTİM Teknik Üniversitesi'nde **Bilgisayar Programcılığı** öğrencisiyim.
 
-💻 Temel düzeyde bildiğim teknolojiler:
-- C
+💡 Veri sistemleri, yapay zekâ ve insan-bilgisayar etkileşimi konularına ilgi duyuyorum. Web teknolojileri (frontend-backend) alanında kendimi geliştirmeye çalışıyorum.
+
+💻 Bildiğim teknolojiler:
 - Python
-- HTML, CSS, Bootstrap
+- C
+- HTML & CSS
 - JavaScript
-
-🛠️ Şu anda öğrendiklerim:
-- Java
 - PostgreSQL
 
-📌 İlgi alanlarım:
-- Yapay zeka
-- Bankacılık veri tabanları
+📚 Öğrenmeye devam ettiğim alanlar:
+- Veritabanı sistemleri
+- Yapay zeka uygulamaları
+- Full-stack geliştirme
 
-📊 GPA: 3.48
-🌐 İngilizcem teknik dökümanları anlayacak seviyede
+📈 Not Ortalaması: **3.28**  
+🌐 İngilizce: Teknik dökümanları anlayabilecek seviyede
+
+🧠 Takım çalışmasına yatkın, sorumluluk almayı seven ve öğrenmeye açık biriyim.
 
 ---
 
 ## 📈 GitHub İstatistiklerim
 
-![Arda'nın GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Bana ulaşın
-- GitHub: [ArdaKaradag36](https://github.com/ArdaKaradag36)
-- LinkedIn: (varsa buraya ekleyin)
-
----
-
-✨ Daha fazla proje ve içerik için takipte kalın!
+![Arda'nın GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ar)
