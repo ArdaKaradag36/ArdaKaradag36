@@ -67,4 +67,6 @@
 
 ## 📈 GitHub İstatistiklerim
 
-![Arda'nın GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ar)
+## 📈 GitHub İstatistiklerim
+
+![Arda'nın GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)
