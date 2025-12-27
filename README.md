@@ -1,72 +1,109 @@
 # 👋 Hello, I'm Arda Karadağ
 
-🎓 I'm currently studying **Computer Programming** at OSTİM Technical University.
+🎓 I'm a **Computer Programming** student (2nd Year) at OSTİM Technical University.
 
-💡 I'm interested in **data systems**, **artificial intelligence**, and **human-computer interaction**. I also enjoy working on web technologies including **frontend** and **backend** development.
+💻 I focus on **Database Architecture**, **Backend Development**, and **Mobile/IoT Systems**. I enjoy transforming theoretical knowledge into practical solutions through project-based learning.
 
-💻 Technologies I'm familiar with:
-- Python
-- C
-- HTML & CSS
-- JavaScript
-- PostgreSQL
-
-📚 I’m constantly learning and improving my skills in:
-- Databases
-- AI applications
-- Full-stack development
-
-📈 GPA: **3.28**  
-🌐 English: Able to understand technical documents and resources
-
-🧠 I'm a team-oriented person who enjoys solving problems, taking responsibility, and learning new things.
+🚀 **Currently:**
+- Managing the **AirSense** IoT project (Mobile & Backend).
+- Developing the **MixCodder** ERP System (Project Management & UI).
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Skills
 
-![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight)
+* **Languages:** Python, C#, JavaScript, SQL, C/C++
+* **Backend & DB:** ASP.NET Core, FastAPI, PostgreSQL, Supabase, MSSQL (SSMS)
+* **Mobile & Web:** React Native, HTML5, CSS3
+* **Tools & Others:** Git, Docker, Trello, BPMN Modeling
+
+---
+
+### 💼 Experience
+
+**Software Intern (Database & Backend)**
+*T.C. Ministry of Interior - NVI (General Directorate of Civil Registration and Citizenship)*
+* Worked on the **BVYS (Biometric Data Management System)** project.
+* Gained experience in **PostgreSQL** architecture and managing large-scale public data systems.
+
+**E-Commerce Operations Support**
+*Başgimpa*
+* Analyzed corporate ERP systems and e-commerce software in the field.
+* Observed user experience (UX) and operational processes directly.
+
+---
+
+### 🏆 Certificates
+* **C# & SQL 101** - Udemy
+* **Introduction to AI & Data Science** - BTK Academy
+* **KOSGEB Entrepreneurship Certificate**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight" alt="Arda's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Contact Me
-- GitHub: [ArdaKaradag36](https://github.com/ArdaKaradag36)
-- LinkedIn: [linkedin.com/in/ardakaradag]([https://linkedin.com/in/ardakaradag](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGTq2qgKiRPqIR6ZitHy5cQ%3D%3D))
+- **Portfolio:** [ardakaradag36.github.io](https://ardakaradag36.github.io/)
+- **LinkedIn:** [linkedin.com/in/ardakaradag](https://www.linkedin.com/in/ardakarada%C4%9F/)
+- **Email:** karadagardaa@gmail.com
 
 ---
 
-✨ Stay tuned for upcoming projects and learning journeys!
+# 👋 Merhaba, ben Arda Karadağ
+
+🎓 OSTİM Teknik Üniversitesi'nde **Bilgisayar Programcılığı** 2. sınıf öğrencisiyim.
+
+💻 **Veritabanı Mimarisi**, **Backend Geliştirme** ve **Mobil/IoT Sistemler** üzerine odaklanıyorum. Edindiğim teorik bilgileri sektörel projelerle pratiğe dökmeyi seviyorum.
+
+🚀 **Şu anda:**
+- **AirSense** IoT projesinin yönetimini ve yazılım süreçlerini yürütüyorum.
+- **MixCodder** Stok Takip (ERP) projesinde Proje Yöneticisi olarak görev alıyorum.
 
 ---
 
-## 👋 Merhaba, ben Arda Karadağ
+### 🛠️ Teknolojiler ve Yetenekler
 
-🎓 OSTİM Teknik Üniversitesi'nde **Bilgisayar Programcılığı** öğrencisiyim.
-
-💡 Veri sistemleri, yapay zekâ ve insan-bilgisayar etkileşimi konularına ilgi duyuyorum. Web teknolojileri (frontend-backend) alanında kendimi geliştirmeye çalışıyorum.
-
-💻 Bildiğim teknolojiler:
-- Python
-- C
-- HTML & CSS
-- JavaScript
-- PostgreSQL
-
-📚 Öğrenmeye devam ettiğim alanlar:
-- Veritabanı sistemleri
-- Yapay zeka uygulamaları
-- Full-stack geliştirme
-
-📈 Not Ortalaması: **3.28**  
-🌐 İngilizce: Teknik dökümanları anlayabilecek seviyede
-
-🧠 Takım çalışmasına yatkın, sorumluluk almayı seven ve öğrenmeye açık biriyim.
+* **Diller:** Python, C#, JavaScript, SQL, C/C++
+* **Backend & Veritabanı:** ASP.NET Core, FastAPI, PostgreSQL, Supabase, MSSQL
+* **Mobil & Web:** React Native, HTML5, CSS3
+* **Araçlar:** Git, Trello, BPMN Modelleme
 
 ---
 
-## 📈 GitHub İstatistiklerim
+### 💼 Deneyimler
 
-## 📈 GitHub İstatistiklerim
+**Yazılım Stajyeri (Veritabanı & Backend)**
+*T.C. İçişleri Bakanlığı - Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü*
+* **BVYS (Biyometrik Veri Yönetim Sistemi)** projesinin veritabanı katmanında görev aldım.
+* **PostgreSQL** mimarisi ve kamu ölçeğindeki büyük veri sistemlerinin yönetimi konusunda tecrübe edindim.
 
-![Arda'nın GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)
+**E-Ticaret Operasyon Destek**
+*Başgimpa*
+* Kurumsal ERP ve e-ticaret yazılımlarının sahadaki karşılığını analiz ettim.
+* Kullanıcı deneyimi ve operasyonel süreçleri yerinde gözlemledim.
+
+---
+
+### 🏆 Sertifikalar
+* **C# ve SQL 101** - Udemy
+* **Yapay Zeka ve Veri Tabanına Giriş** - BTK Akademi
+* **KOSGEB Girişimcilik Sertifikası**
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight&locale=tr" alt="Arda'nın GitHub İstatistikleri" />
+</p>
+
+---
+
+✨ *Projelerimi ve gelişim sürecimi takipte kalın!*
