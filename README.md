@@ -98,12 +98,5 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight&locale=tr" alt="Arda'nın GitHub İstatistikleri" />
-</p>
-
----
 
 ✨ *Projelerimi ve gelişim sürecimi takipte kalın!*
