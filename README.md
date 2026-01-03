@@ -5,8 +5,8 @@
 💻 I focus on **Database Architecture**, **Backend Development**, and **Mobile/IoT Systems**. I enjoy transforming theoretical knowledge into practical solutions through project-based learning.
 
 🚀 **Currently:**
-- Managing the **AirSense** IoT project (Mobile & Backend).
-- Developing the **MixCodder** ERP System (Project Management & UI).
+- Managing and Developing the **AirSense** IoT project (Mobile & Backend).
+- Managing the **MixCodder** ERP System (Project Management & UI).
 
 ---
 
