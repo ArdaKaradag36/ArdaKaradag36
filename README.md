@@ -35,7 +35,7 @@
 
 ### 🏆 Certificates
 * **C# & SQL 101** - Udemy
-* **SQL Database Development - Udemy
+* **SQL Database Development** - Udemy
 * **Introduction to AI & Data Science** - BTK Academy
 * **KOSGEB Entrepreneurship Certificate**
 
@@ -43,13 +43,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight&locale=tr" alt="Arda's GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight&locale=tr" alt="Top Languages" />
-</p>
+[![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight)](https://github.com/ArdaKaradag36)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight)](https://github.com/ArdaKaradag36)
 
 ---
 
@@ -97,7 +95,7 @@
 
 ### 🏆 Sertifikalar
 * **C# ve SQL 101** - Udemy
-* **SQL Veri Tabanı Programlama - Udemy
+* **SQL Veri Tabanı Programlama** - Udemy
 * **Yapay Zeka ve Veri Tabanına Giriş** - BTK Akademi
 * **KOSGEB Girişimcilik Sertifikası**
 
