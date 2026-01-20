@@ -43,9 +43,9 @@
 
 ### 📊 GitHub Stats
 
-![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdaKaradag36&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight&hide=c,css&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaKaradag36&layout=compact&theme=tokyonight&hide=c,css,html&langs_count=6&count_private=true)
 
 ---
 
