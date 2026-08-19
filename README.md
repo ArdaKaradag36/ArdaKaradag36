@@ -9,7 +9,7 @@
 
 ### 🛠️ Yetkinlikler & Teknolojiler
 
-- **Backend & Core:** Python (FastAPI, aiohttp), C# (.NET Core), TypeScript
+- **Backend & Core:** Python (FastAPI, aiohttp), C# (.NET Core, Entity Framework), TypeScript
 - **Veritabanı & Altyapı:** PostgreSQL, SQLite (WAL), Supabase, Docker, Linux, Bash
 - **Frontend & Mobil:** React Native, Expo, UI/UX (Figma/Stitch)
 - **Metodoloji & Araçlar:** BPMN 2.0, Playwright, Prometheus, Git, CI/CD
